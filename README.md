@@ -5,7 +5,7 @@
 Je m'appelle **Maïna Boivent** et je suis actuellement étudiante en **Master 2 Recherche Opérationnelle, Optimisation, Algorithmes et Données (ROAD)** à l’Université de Bordeaux – Sciences et Technologies.
 
 Forte de solides compétences théoriques et d'une première expérience pratique, je suis motivée pour participer à de nouveaux projets et à mettre mes compétences au service d’un environnement stimulant.
-Mon objectif est de poursuivre en **doctorat** après mon stage de recherche de fin d’études.
+Mon objectif est de poursuivre en **doctorat** après mon stage de fin d’études.
 
 ---
 
