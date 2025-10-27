@@ -1,6 +1,6 @@
 # Projets_Academiques - Maïna Boivent
 
-## 🌐 À propos de moi
+## À propos de moi
 
 Je m'appelle **Maïna Boivent** et je suis actuellement étudiante en **Master 2 Recherche Opérationnelle, Optimisation, Algorithmes et Données (ROAD)** à l’Université de Bordeaux – Sciences et Technologies.
 
@@ -9,7 +9,7 @@ Mon objectif est de poursuivre en **doctorat** après mon stage de fin d’étud
 
 ---
 
-## 🧮 Domaines d’intérêt
+## Domaines d’intérêt
 
 - Optimisation combinatoire et continue
 - Modélisation mathématique
@@ -19,7 +19,7 @@ Mon objectif est de poursuivre en **doctorat** après mon stage de fin d’étud
 
 ---
 
-## 💻 Compétences techniques
+## Compétences techniques
 
 | Catégorie | Outils / Langages |
 |------------|------------------|
@@ -31,7 +31,7 @@ Mon objectif est de poursuivre en **doctorat** après mon stage de fin d’étud
 
 ---
 
-## 📚 Projets universitaires
+## Projets universitaires
 
 ### 🔹 [Minimisation du Regret Maximum](https://github.com/maina-boivent/minmax-regret)
 Modélisation et résolution d’un problème de plus court chemin sous incertitude, avec implémentation en **C++**, utilisation de **Gurobi**.  
@@ -49,7 +49,7 @@ Analyse de données mixtes avec **CAH**, **k-means**, **PCAmix**, et visualisati
 
 ---
 
-## 🧠 Objectif actuel
+## Objectif actuel
 
 Je prépare actuellement un **stage de recherche (mars – août 2026)** en optimisation, idéalement orienté vers :
 - la **recherche académique** (préparation à un doctorat)  
@@ -57,11 +57,11 @@ Je prépare actuellement un **stage de recherche (mars – août 2026)** en opti
 
 ---
 
-## 📫 Me contacter
+## Me contacter
 
-- 📧 **boivent.maina@gmail.com**  
-- 💼 [LinkedIn (à ajouter)](https://www.linkedin.com/)  
-- 🌍 Bordeaux, France  
+- **boivent.maina@gmail.com**  
+- [LinkedIn (à ajouter)](https://www.linkedin.com/)  
+- Bordeaux, France  
 
 ---
  
